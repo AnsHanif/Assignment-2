@@ -1,0 +1,55 @@
+.First{
+    height: 50px;
+    background-color: gainsboro;
+    width: 100%;
+    font-size: 30px;
+}
+
+.Second{
+    height: 30px;
+    background-color: gainsboro;
+    width: 100%;
+    font-size: 20px;
+}
+
+#maincontent{
+    display: flex;
+
+    width: 80%;
+    height: 250px;
+    }
+
+.third
+{
+ background-color: gainsboro;
+ width: 20%;
+ font-size: 30px;
+}
+
+.four{
+    background-color: gainsboro;
+    width:78%;
+    font-size: 30px;
+}
+.five{
+    background-color: gainsboro;
+    width: 20%;
+    font-size: 30px;
+}
+
+.six{
+    background-color: gainsboro;
+    height: 50px;
+    width: 100%;
+    font-size: 30px;
+}
+.third, .four, .five{
+    flex: 1 0 auto;
+    padding: 10px;
+}
+.Line{
+    color: white;
+}
+.pad{
+    padding:70px 0px 30px 0px;
+}
